@@ -1,0 +1,22 @@
+{
+  "name": "test-baddog-base-api",
+  "version": "1.0.0",
+  "description": "Base graphql api ",
+  "main": "src/news_index.js",
+  "scripts": {
+    "start": "nodemon src/news_index"
+  },
+  "dependencies": {
+    "apollo-datasource-rest": "^3.1.1",
+    "apollo-server": "^3.1.2",
+    "graphql": "^15.5.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "author": "",
+  "license": "MIT",
+  "private": true
+}
