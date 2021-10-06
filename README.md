@@ -1,3 +1,3 @@
-# Catstronauts - server
+# graphQL apollo server for news api
 
-The starting point of the `server` code for Odyssey Lift-off I course.
+Jumping off point for Content aggregator api work 
